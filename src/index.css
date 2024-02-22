@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Krub:wght@200;400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menu li a[href='/'] {
+    color: white;
+    background-color: black;
+  }
+.menu li a[href='/register'] {
+    color: white;
+    background-color: black;
+  }
